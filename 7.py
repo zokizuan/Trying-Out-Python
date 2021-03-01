@@ -1,5 +1,4 @@
-""""Write a program in Python to print all the Krishnamurthy numbers within a given range. Take
-the upper limit and lower limit as input, using functions."""
+""" Write a program in Python to print all the Krishnamurthy numbers within a given range. Take the upper limit and lower limit as input, using functions. """
 def factorial(n):
     fact = 1
     while n != 0:

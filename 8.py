@@ -1,4 +1,4 @@
-""""Write a program in Python to find out the digital root of a number, using functions. The digital
+"""Write a program in Python to find out the digital root of a number, using functions. The digital
 root of a number is the sum of digits taken continuously till the sum is lesser than 10"""
 
 
